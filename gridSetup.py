@@ -1,5 +1,4 @@
 from itertools import count
-from math import ceil
 from tkinter import *
 
 
